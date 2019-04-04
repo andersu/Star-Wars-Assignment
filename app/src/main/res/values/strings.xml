@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CodeAssignment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sw_person_who_might_it_be">Click Here to see who it might be?!</string>
+    <string name="sw_planet_no_one_lives_here">No person lives here</string>
+    <string name="sw_starship_no_one_flies_this_starship">No one flies this Starship, it probably crashed into
+        something
+    </string>
+    <string name="sw_planet_click_to_see_where">Click Here to see where it might be?!</string>
+    <string-array name="sw_tab_titles">
+        <item>Peoples</item>
+        <item>Starships</item>
+        <item>Planets</item>
+    </string-array>
+</resources>
